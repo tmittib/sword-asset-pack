@@ -1,0 +1,27 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAANDd7QAAAAAA3e3eAAAAANDd3g0AAAAA3e7dAAAAAN3t3QAAAAAA7t4NAAAAAAD/3gAAAAAA8PYOAAAAAADw9g8AAAAAAG9mDwAAAADwZmb2AAAAAG9pZvYAAAAAn5lm/wAAAPBmafYPAAAAAP///wAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Mighty Sword"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAA4O7u7u4OAODu3d3d3e4O7t3d3d3d3e7u7u7u7u7u7t7d3d3d3d3t7u7u7u7u7u7e3d3d3d3d7d7d3d3d3d3t7u7u7u7u7u7e3d3d3d3d7d7d3d3d3d3t7u7u7u7u7u7u3d3d3d3dDuDe3d3d3e0OAO7u7u7u7gAA4O7u7u4OAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Barrel"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAA8AAAdwkHAAAPUKqXeQAJ/wB0hZlCmfAAACk1iZL5DwAAmTM0Mw8AAACTQ5T/AAAAAIju/pkKAAAAeO6eiJgqAACQ7p6ZhwkAAJkiUieqCQAAqZhSp0IkAACJl4SkKUAAAIeQigSaAAAAACSKSJAAAAAABAAHAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Magic wand"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAABwdwcAAAAAcHd3dwcAAAB3d3d3dwAAcHd3d3cHAAB3f3f/fwcAAHd/d3//BwAAd3d3f/cHAAB3d3d/93cAAHd3d3/3dwAAd3d3f/cHAAB3/3d/93cAAHd/d3/3dwAAd3d3//93AABwd3f3f3cAAAB3d3d3dwAAAHB3d3cHAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Goop monster"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
