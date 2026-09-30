@@ -24,19 +24,5 @@
         "arcade"
     ],
     "preferredEditor": "blocksprj",
-    "assetPack": true,
-    "theme": {
-        "layout": "retro",
-        "background-color": "#249CA3",
-        "button-stroke": "#397382",
-        "text-color": "#000000",
-        "button-fill": "#333333",
-        "dpad-fill": "#333333",
-        "joystick-handle-stroke": "#999999",
-        "button-a-fill": "#E22400",
-        "button-b-fill": "#E22400",
-        "console-border": "#249CA3",
-        "screen-side-border": "#474747",
-        "screen-top-bottom-border": "#474747"
-    }
+    "assetPack": true
 }
